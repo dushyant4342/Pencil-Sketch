@@ -1,2 +1,1 @@
-#Python Codes
-Pencil Sketch, Generating QR Code 
+Image to Pencil Sketch, Generating QR Code 
